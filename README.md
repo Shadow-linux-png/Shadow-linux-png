@@ -3,7 +3,6 @@
 🚀 **Independent AI/ML Developer** | B.Tech CSE (AI/ML), United Institute of Technology, Prayagraj  
 
 [![GitHub followers](https://img.shields.io/github/followers/Shadow-linux-png?label=Follow&style=social)](https://github.com/Shadow-linux-png)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-blue)](#)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](#)  
 
 ---
