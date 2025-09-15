@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Aryan Shukla%20%7C%20Debugger%20Hunter&fontSize=24&fontColor=ffffff&desc=🕸+Welcome+to+my+multiverse+of+code!+🧠&descAlignY=65&descAlign=65" alt="Banner">
-</p>
-
-
 ## 💫 About Me  
 - 👨‍💻 *Name:* Aryan Shukla  
 - 📚 *B.Tech CSE (AI/ML)* @ United Institute of Technology (2023–2027)  
