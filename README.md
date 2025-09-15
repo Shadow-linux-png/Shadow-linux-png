@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ccff&height=200&section=header&text=Aryan%20Shukla%20%7C%20AI%20Engineer%20in%20Making&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=🚀+Exploring+AI,+ML,+Cybersecurity+%26+Beyond!&descAlignY=75" alt="Banner"/>
+  <img src="assets/banner.png" alt="Banner" />
 </p>
 
 
@@ -40,16 +40,12 @@
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" title="C"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" title="Java"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" title="React"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
-
 ---
 
 ## 🚀 Featured Projects  
