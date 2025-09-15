@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=150&section=header&text=Aryan%20Shukla%20%7C%20AI%20Engineer%20in%20Making&fontSize=24&fontColor=ffffff&desc=🚀+Exploring+AI,+ML,+Cybersecurity+%26+Beyond!&descAlignY=65&descAlign=65" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ccff&height=200&section=header&text=Aryan%20Shukla%20%7C%20AI%20Engineer%20in%20Making&fontSize=30&fontColor=ffffff&animation=fadeIn&desc=🚀+Exploring+AI,+ML,+Cybersecurity+%26+Beyond!&descAlignY=75" alt="Banner"/>
 </p>
+
 
 ## 💫 About Me  
 - 👨‍💻 *Name:* Aryan Shukla  
