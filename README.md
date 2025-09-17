@@ -21,7 +21,7 @@
 
 ## 🌐 Connect
 <div align="center">
-  <a href="https://github.com/Shadow-linux-png"><img src="https://img.shields.io/badge/GitHub-Aryanshukla578-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Shadow-linux-png"><img src="https://img.shields.io/badge/GitHub-Shadow-linux-png-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/aryan-shukla-3821b135a/"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:as3061693@gmail.com"><img src="https://img.shields.io/badge/Email-as3061693@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- Replace with your LeetCode / Portfolio when ready -->
