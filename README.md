@@ -21,12 +21,12 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Aryanshukla578" target="_blank">
+  <a href="https://github.com/Shadow-linux-png" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32" alt="GitHub" />
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Aryan578/" target="_blank">
+  <a href="https://leetcode.com/u/7GWEViZeVk/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32" alt="LeetCode" />
   </a>
 </div>
