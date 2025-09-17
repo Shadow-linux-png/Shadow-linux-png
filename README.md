@@ -1,12 +1,14 @@
-## 💫 About Me  
-- 👨‍💻 *Name:* Aryan Shukla  
-- 📚 *B.Tech CSE (AI/ML)* @ United Institute of Technology (2023–2027)  
-- 🧠 *AI/ML Developer:* Builder of **NeuroSentry, CyberSentinel AI, AI Ambu Buddy**  
-- 🛠 *Tech Enthusiast:* From **ML APIs** to **Cyber Defense Tools**  
-- 🏆 *Hackathon Experience:* Showcased prototypes in front of 500+ participants  
-- ⚡ *Fun Fact:* I call myself an **AI Debugger** — I don’t just find bugs, I *terminate* them 🔥  
-- 💼 *Current Focus:* ML Deployment, AI Agents & Real-time Simulation  
-- 🌱 *Next Goal:* Mastering **NLP + Data Analytics**  
+# 🚀 Aryan Shukla | AI/ML Innovator & Cyber Defender
+
+## 💫 About Me
+- 👨‍💻 **Name:** Aryan Shukla
+- 📚 **Education:** B.Tech CSE (AI/ML) @ United Institute of Technology (2023–2027)
+- 🧠 **Expertise:** AI/ML Developer specializing in **NeuroSentry, CyberSentinel AI, AI Ambu Buddy**
+- 🛠 **Passion:** Crafting ML APIs, Cyber Defense Tools, and Real-time Simulations
+- 🏆 **Achievements:** Prototyped groundbreaking solutions in front of 500+ participants at hackathons
+- ⚡ **Fun Fact:** Self-proclaimed **AI Debugger** — I don't just find bugs, I *annihilate* them! 🔥
+- 💼 **Current Focus:** ML Deployment, AI Agents, and Cutting-edge Simulations
+- 🌱 **Next Milestone:** Mastering **NLP + Data Analytics** for next-gen innovations
 
 ---
 
@@ -31,7 +33,7 @@
 
 ---
 
-## 🛠 My Tech Toolbox  
+## 🛠 My Tech Arsenal
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" title="C"/>
@@ -40,24 +42,24 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" title="OpenCV"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" title="Git"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"/>
 </p>
+
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Project
 
 | 🚨 Project | ⚙ Stack | ✨ Highlights | 🔗 Demo |
 |-----------|----------|---------------|---------|
-| **🚑 [AI Ambu Buddy](https://github.com/Aryanshukla578/AI_Ambu)** | Python, FastAPI, NLP | Emergency response, GPS-based triage | 🛠 Repo |
-| **🤖 [ScrappyKNN API](https://github.com/Aryanshukla578/ScrappyKNN-FastAPI-Iris)** | Python, FastAPI | Custom KNN Classifier + Swagger UI | 🛠 Repo |
-| **🛡 [CyberSentinel AI](https://github.com/Aryanshukla578/CyberSentinel-AI)** | Python, scikit-learn, PySide6 | Phishing + WiFi Intrusion detection | 🛠 Repo |
-| **🔐 [NeuroSentry](#)** | React, AI, Emotion Detection | Holographic AI Assistant + Emotion Lock | 🚧 Work in Progress |
+| **🌧️ [ClimateCrowd-TrafficTwin](https://github.com/Shadow-linux-png/ClimateCrowd-TrafficTwin)** | Python, Streamlit, Simulation Algorithms | Revolutionizing urban traffic with climate & crowd resilience – real-time simulation for disaster prep & event management | 🛠 Repo |
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Aryanshukla578&theme=tokyonight&hide_border=false&count_private=true&show_icons=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanshukla578&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
+*Crafting the future of AI, one innovation at a time.*
