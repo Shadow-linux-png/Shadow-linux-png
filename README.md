@@ -62,9 +62,7 @@ I don't just build models; I build the **nervous systems** that allow AI to inte
 ## 📈 GitHub Metrics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Shadow-linux-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-linux-png&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-linux-png&theme=tokyonight&hide_border=true" width="45%" /></p>
 ---
 
 ## 🤝 Let's Connect
