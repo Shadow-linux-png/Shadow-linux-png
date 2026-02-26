@@ -1,5 +1,5 @@
 # Hi, I'm Aryan Shukla 👋 
-### AI-Driven Software Engineer | Backend Architect | Digital Twin Specialist
+### AI-Driven Software Engineer | Backend Architect |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-shukla-3821b135a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as3061693@gmail.com)
@@ -60,10 +60,12 @@ I don't just build models; I build the **nervous systems** that allow AI to inte
 ---
 
 ## 📈 GitHub Metrics
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Shadow-linux-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-linux-png&theme=tokyonight&hide_border=true" width="45%" /></p>
----
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-linux-png&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Aryan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow-linux-png&theme=radical&hide_border=true" width="48%" alt="Aryan's GitHub Streak" />
+</p>
+--
 
 ## 🤝 Let's Connect
 I'm always looking for challenges involving **High-load Backends** or **MLOps**. 
