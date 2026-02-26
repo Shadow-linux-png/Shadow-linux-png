@@ -6,46 +6,55 @@ AI-focused Software Engineering student building scalable backend systems and in
 
 ## About Me
 
-- B.Tech CSE (AI/ML)  
-- Strong interest in Backend Engineering + AI Integration  
-- Experience in Computer Vision, Simulation Systems, and Digital Twins  
-- Currently focusing on FastAPI + production-ready backend development  
+I work at the intersection of:
+
+- Backend Engineering  
+- Machine Learning  
+- Digital Twin & Simulation Systems  
+- AI-integrated decision architectures  
+
+Currently strengthening:
+- FastAPI & REST API development  
+- Database integration  
+- Clean architecture design  
+- LLM + backend system integration  
 
 ---
 
-## Current Roadmap
+## Current Focus (2025 Roadmap)
 
-**Month 1 — Backend Focus**
-- FastAPI REST APIs  
-- Database integration  
+### Month 1 — Backend Engineering
+- FastAPI production APIs  
+- Database design & schema modeling  
 - Authentication (JWT)  
-- Clean architecture  
-- Deployment  
+- Modular project structure  
+- Deployment workflows  
 
-**Month 2 — LLM + AI Integration**
+### Month 2 — LLM + AI Integration
 - Retrieval-Augmented Generation (RAG)  
-- LLM + Backend integration  
-- Scalable inference systems  
+- LLM inference pipelines  
+- Backend + AI system integration  
+- Scalable inference design  
 
 ---
 
 ## Featured Projects
 
 ### IndiRoadsSim — Road Digital Twin
-Digital twin of Indian roads using OSM + simulation modeling.  
-🔗 https://github.com/Shadow-linux-png/IndiRoadsSim
+Digital twin simulation of Indian road networks using OSM and geometric modeling.  
+https://github.com/Shadow-linux-png/IndiRoadsSim
 
 ---
 
 ### Traffic Pothole Simulator
-YOLO-based pothole detection integrated with SUMO routing.  
-🔗 https://github.com/Shadow-linux-png/Traffic_pothole_simulator
+YOLO-based anomaly detection integrated with SUMO traffic simulation.  
+https://github.com/Shadow-linux-png/Traffic_pothole_simulator
 
 ---
 
 ### EmotionAutoCity
-Speech emotion recognition system with real-time adaptive logic.  
-🔗 https://github.com/Shadow-linux-png/EmotionAutoCity
+Speech emotion recognition system with real-time adaptive response logic.  
+https://github.com/Shadow-linux-png/EmotionAutoCity
 
 ---
 
@@ -64,15 +73,15 @@ Speech emotion recognition system with real-time adaptive logic.
 
 I focus on building systems — not just models.
 
-Interested in:
-- AI-integrated backend systems  
-- Simulation-driven architectures  
-- Scalable ML deployment  
+Prediction is valuable.  
+System-level decision thinking is powerful.
+
+Working toward becoming a production-ready AI-focused Software Engineer.
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/Shadow-linux-png  
-- LinkedIn: https://www.linkedin.com/in/aryan-shukla-3821b135a/  
-- Email: as3061693@gmail.com
+GitHub: https://github.com/Shadow-linux-png  
+LinkedIn: https://www.linkedin.com/in/aryan-shukla-3821b135a/  
+Email: as3061693@gmail.com
