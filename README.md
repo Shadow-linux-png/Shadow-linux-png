@@ -21,7 +21,7 @@ I focus on building systems — not just models.
 
 ---
 
-## Current Focus (2025 Roadmap)
+## Current Focus (2026 Roadmap)
 
 ### Month 1 — Backend Engineering
 - FastAPI-based production APIs  
